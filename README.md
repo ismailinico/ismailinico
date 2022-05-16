@@ -1,4 +1,3 @@
----
 ### Hi there, my name is Nico Ismaili. I am **full stack developer** from **Wiesbaden, Germany** 🌍👋
 ---
 
@@ -19,5 +18,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nico.ismaili/)
 
 ---
-[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=ismailinico&locale=en&hide=contribs)](https://github.com/ismailinico)
-![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailinico&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true)
+<a href="https://github.com/ismailinico">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ismailinico&locale=en&hide=contribs" alt="Nico's github stats"/>
+</a>
+<a href="https://github.com/ismailinico">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailinico&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true" alt="My languages"/>
+</a>
