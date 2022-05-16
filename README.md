@@ -24,5 +24,5 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=ismailinico&locale=en&hide=contribs&line_height=23" alt="Nico's github stats"/>
 </a>
 <a href="https://github.com/ismailinico">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailinico&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true&card_width=245" alt="My languages"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailinico&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true&card_width=230" alt="My languages"/>
 </a>
