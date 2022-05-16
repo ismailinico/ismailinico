@@ -5,7 +5,7 @@
 
 😄 Pronouns: He/Him
 
-🔭 I’m currently working on my [media computer science degree](https://www.hs-rm.de/en/faculties/design-computer-science-media/degree-programs/media-computer-science-bsc)
+🔭 I’m currently working on my **[Media Computer Science degree](https://www.hs-rm.de/en/faculties/design-computer-science-media/degree-programs/media-computer-science-bsc)**
 
 🌱 I’m currently learning **machine learning** and **Android app developement**
 
