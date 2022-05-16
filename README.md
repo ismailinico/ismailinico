@@ -9,8 +9,6 @@
 
 🌱 I’m currently learning **machine learning** and **Android app developement**.
 
-💬 Ask me about my app **Qontract** (Playstore link coming soon)
-
 📫 How to reach me:
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nico.ismaili.de/)
