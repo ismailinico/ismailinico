@@ -17,9 +17,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nico.ismaili/)
 
 ---
-<span>
+<a href="https://github.com/nico-i?tab=repositories">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=nico-i&locale=en&line_height=19" alt="Nico's github stats"/>
-</span>
-<span>
+</a>
+<a href="https://github.com/nico-i?tab=repositories">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-i&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true&card_width=230" alt="My languages"/>
-</span>
+</a>
