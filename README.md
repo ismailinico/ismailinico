@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on my <a target="_blank" rel=”noreferrer” href="https://www.hs-rm.de/en/faculties/design-computer-science-media/degree-programs/media-computer-science-bsc">**Media Computer Science degree**</a>.
 
-🌱 I’m currently learning **machine learning** and **Android app developement**.
+🌱 I’m currently learning **machine learning** and **working with the [ionic framework](https://ionicframework.com/)**.
 
 📫 How to reach me:
 
