@@ -24,3 +24,7 @@
 <a href="https://github.com/nico-i?tab=repositories">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-i&exclude_repo=ismailinico.github.io&layout=compact&langs_count=10&hide_title=true&card_width=230" alt="My languages"/>
 </a>
+
+---
+
+[![@nico's Holopin board](https://holopin.me/nico)](https://holopin.io/@nico)
