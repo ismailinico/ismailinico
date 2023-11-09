@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-### I am Nico, a **full stack developer** from **Wiesbaden, Germany** 🌍
+I am Nico, a **full stack developer** from **Wiesbaden, Germany** 🌍
 ---
 
 😄 Pronouns: He/Him
