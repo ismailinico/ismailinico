@@ -1,5 +1,0 @@
-{
-  "./packages/eslint-config": "0.1.0",
-  "./packages/prettier-config": "0.1.0",
-  "./packages/typescript-config": "0.1.0"
-}
