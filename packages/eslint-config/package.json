@@ -2,17 +2,19 @@
   "name": "@nico-i/eslint-config",
   "version": "1.0.0",
   "description": "My ESLint config.",
-  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nico-i/nico-i/.git"
+    "url": "https://github.com/nico-i/nico-i"
   },
   "keywords": [
     "eslint-config"
   ],
+  "files": [
+    "basic.js"
+  ],
   "author": "Nico Ismaili",
   "license": "MIT",
   "peerDependencies": {
-        "eslint": ">= 3"
-    }
+    "eslint": ">= 3"
+  }
 }

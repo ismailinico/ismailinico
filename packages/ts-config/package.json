@@ -1,15 +1,17 @@
 {
-  "name": "@nico-i/prettier-config",
+  "name": "@nico-i/ts-config",
   "version": "1.0.0",
-  "description": "My prettier config.",
+  "description": "My base tsconfig.",
   "repository": {
     "type": "git",
     "url": "https://github.com/nico-i/nico-i"
   },
-  "main": "index.js",
+  "files": [
+    "basic.json",
+    "next.json"
+  ],
   "keywords": [
-    "prettier",
-    "prettier-config"
+    "tsconfig"
   ],
   "author": "Nico Ismaili",
   "license": "MIT"
