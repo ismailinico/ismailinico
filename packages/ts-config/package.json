@@ -4,7 +4,7 @@
   "description": "My base tsconfig.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nico-i/nico-i"
+    "url": "https://github.com/nico-i/nico-i.git"
   },
   "files": [
     "basic.json",
@@ -12,7 +12,9 @@
   ],
   "keywords": [
     "tsconfig"
-  ],
+  ],"publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Nico Ismaili",
   "license": "MIT"
 }

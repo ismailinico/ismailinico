@@ -4,13 +4,16 @@
   "description": "My prettier config.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nico-i/nico-i"
+    "url": "https://github.com/nico-i/nico-i.git"
   },
   "main": "index.js",
   "keywords": [
     "prettier",
     "prettier-config"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Nico Ismaili",
   "license": "MIT"
 }

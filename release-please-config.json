@@ -1,18 +1,10 @@
 {
   "separate-pull-requests": true,
+  "release-type": "node",
   "packages": {
-    "packages/eslint-config": {
-      "releaseType": "node",
-      "draft": false
-    },
-    "packages/prettier-config": {
-      "releaseType": "node",
-      "draft": false
-    },
-    "packages/ts-config": {
-      "releaseType": "node",
-      "draft": false
-    }
+    "packages/eslint-config": {},
+    "packages/prettier-config": {},
+    "packages/ts-config": {}
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }

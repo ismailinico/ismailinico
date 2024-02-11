@@ -1,0 +1,36 @@
+name: Publish to GitHub Packages
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20.x"
+          registry-url: "https://npm.pkg.github.com"
+          # Assuming you're publishing scoped packages
+          scope: "@nico-i"
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Install Lerna
+        run: pnpm install -g lerna
+
+      - name: Authenticate with GitHub Packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
+
+      - name: Publish packages
+        run: lerna publish from-package --yes
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
