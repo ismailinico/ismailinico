@@ -1,6 +1,6 @@
 {
   "name": "@nico-i/prettier-config",
-  "version": "0.0.0",
+  "version": "0.0.9",
   "description": "My prettier config.",
   "repository": {
     "type": "git",
@@ -13,6 +13,9 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.5"
   },
   "author": "Nico Ismaili",
   "license": "MIT"
