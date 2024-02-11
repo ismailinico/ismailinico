@@ -17,15 +17,17 @@ jobs:
         with:
           node-version: "20.x"
           registry-url: "https://npm.pkg.github.com"
-          # Assuming you're publishing scoped packages
           scope: "@nico-i"
           cache: "pnpm"
+
+      - name: Install pnpm
+        run: npm install -g pnpm
 
       - name: Install dependencies
         run: pnpm install
 
       - name: Install Lerna
-        run: pnpm install -g lerna
+        run: pnpm add -g lerna
 
       - name: Authenticate with GitHub Packages
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
@@ -33,4 +35,4 @@ jobs:
       - name: Publish packages
         run: lerna publish from-package --yes
         env:
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
