@@ -1,6 +1,6 @@
 {
   "name": "@nico-i/ts-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "My base tsconfig.",
   "repository": {
     "type": "git",
@@ -12,7 +12,8 @@
   ],
   "keywords": [
     "tsconfig"
-  ],"publishConfig": {
+  ],
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "author": "Nico Ismaili",
