@@ -5,10 +5,10 @@
     "@commitlint/config-conventional": "^18.6.0",
     "commitlint-plugin-spend": "^1.0.1",
     "husky": "^9.0.10",
+    "is-ci": "^3.0.1",
     "lerna": "^8.1.2"
   },
   "scripts": {
-    "prepare": "if [ -z \"$CI\" ]; husky"
-  },
-  "dependencies": {}
+    "prepare": "npx is-ci && husky"
+  }
 }

@@ -20,6 +20,9 @@ importers:
       husky:
         specifier: ^9.0.10
         version: 9.0.10
+      is-ci:
+        specifier: ^3.0.1
+        version: 3.0.1
       lerna:
         specifier: ^8.1.2
         version: 8.1.2
