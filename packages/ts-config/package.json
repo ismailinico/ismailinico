@@ -1,6 +1,6 @@
 {
   "name": "@nico-i/ts-config",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "My base tsconfig.",
   "repository": "https://github.com/nico-i/nico-i",
   "private": false,
