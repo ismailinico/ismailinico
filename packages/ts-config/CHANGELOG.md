@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/nico-i/nico-i/compare/ts-config-v1.0.0...ts-config-v2.0.0) (2024-02-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* reverted release + publish to npm
+
+### Features
+
+* added readmes ([3aa48da](https://github.com/nico-i/nico-i/commit/3aa48dadbfa3c7d46db18aa1b2d7c11a91b4fe0a))
+* reverted release + publish to npm ([5d16a5e](https://github.com/nico-i/nico-i/commit/5d16a5e666b0563574405d8a0c97e4b4f30b2e42))
+
 ## [1.0.0](https://github.com/nico-i/nico-i/compare/ts-config-v0.9.0...ts-config-v1.0.0) (2024-02-13)
 
 
