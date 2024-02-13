@@ -4,6 +4,9 @@
   "description": "My base tsconfig.",
   "repository": "https://github.com/nico-i/nico-i",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "basic.json",
     "next.json"
@@ -15,5 +18,6 @@
     "typescript": ">=2.1"
   },
   "author": "Nico Ismaili",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "46980dc302c06369e01f693167f9792ea2a105c2"
 }

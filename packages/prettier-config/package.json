@@ -5,6 +5,9 @@
   "repository": "https://github.com/nico-i/nico-i",
   "private": false,
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "prettier",
     "prettier-config"
@@ -13,5 +16,6 @@
     "prettier": "*"
   },
   "author": "Nico Ismaili",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "46980dc302c06369e01f693167f9792ea2a105c2"
 }

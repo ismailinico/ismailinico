@@ -4,6 +4,9 @@
   "description": "My ESLint config.",
   "repository": "https://github.com/nico-i/nico-i",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "eslint-config"
   ],
@@ -14,5 +17,6 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3"
-  }
+  },
+  "gitHead": "46980dc302c06369e01f693167f9792ea2a105c2"
 }
