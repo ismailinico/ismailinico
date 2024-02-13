@@ -25,6 +25,9 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "pnpm"
 
+      - name: Remove prepare script
+        run: pnpm pkg delete scripts.prepare
+
       - name: Install dependencies
         run: pnpm install
 
