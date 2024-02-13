@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/nico-i/nico-i/compare/prettier-config-v1.0.0...prettier-config-v2.0.0) (2024-02-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* release 1.0.0
+
+### Features
+
+* added readmes ([3aa48da](https://github.com/nico-i/nico-i/commit/3aa48dadbfa3c7d46db18aa1b2d7c11a91b4fe0a))
+* release 1.0.0 ([8bce897](https://github.com/nico-i/nico-i/commit/8bce897522535fe310615d93007882d649283da5))
+* reverted release + publish to npm ([08a2eda](https://github.com/nico-i/nico-i/commit/08a2eda324bf0a9938c515f8bb34b9dad8b6ae17))
+
 ## [1.0.0](https://github.com/nico-i/nico-i/compare/prettier-config-v0.9.0...prettier-config-v1.0.0) (2024-02-13)
 
 
