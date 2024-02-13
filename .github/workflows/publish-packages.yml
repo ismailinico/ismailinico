@@ -11,6 +11,8 @@ jobs:
     strategy:
       matrix:
         node-version: ["20.x"]
+    env:
+      HUSKY: 0
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,9 +27,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: "pnpm"
-
-      - name: Remove prepare script
-        run: pnpm pkg delete scripts.prepare
 
       - name: Install dependencies
         run: pnpm install
