@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/nico-i/nico-i/compare/ts-config-v1.1.0...ts-config-v1.2.0) (2024-03-05)
+
+
+### Features
+
+* update basic.json based on google ([028fc81](https://github.com/nico-i/nico-i/commit/028fc815573df7fb155495e453d91433957fe4bd))
+
 ## [1.1.0](https://github.com/nico-i/nico-i/compare/ts-config-v1.0.0...ts-config-v1.1.0) (2024-03-03)
 
 
