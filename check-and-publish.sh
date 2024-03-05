@@ -12,7 +12,7 @@ for PACKAGE in packages/*; do
             echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > "$PACKAGE/.npmrc"
             
             # Attempt to publish
-            (cd "$PACKAGE" && pnpm publish --access public)
+            (cd "$PACKAGE" && pnpm publish --access public --no-git-checks)
             
             # Optionally, remove the .npmrc file after publishing to clean up
             rm "$PACKAGE/.npmrc"

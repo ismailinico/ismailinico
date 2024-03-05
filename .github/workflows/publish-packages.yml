@@ -31,9 +31,6 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Install Lerna
-        run: pnpm add -g lerna
-
       - name: Publish packages
         run: ./check-and-publish.sh
         env:
