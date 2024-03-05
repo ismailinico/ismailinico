@@ -11,13 +11,16 @@ for PACKAGE in packages/*; do
             # Set up .npmrc with the auth token from environment variable
             echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > "$PACKAGE/.npmrc"
             
-            # Attempt to publish
-            (cd "$PACKAGE" && pnpm publish --access public --no-git-checks)
-            
+            # Attempt to publish or exit with error if it fails
+            if ! (cd "$PACKAGE" && npm publish --access public --no-git-checks); then
+                echo "Failed to publish $PACKAGE_NAME@$LOCAL_VERSION."
+                exit 1
+            fi
+
             # Optionally, remove the .npmrc file after publishing to clean up
             rm "$PACKAGE/.npmrc"
-            
-            echo "$PACKAGE_NAME@$LOCAL_VERSION published."
+
+            echo "Published $PACKAGE_NAME@$LOCAL_VERSION."
         else
             echo "Version synced for $PACKAGE_NAME."
         fi
