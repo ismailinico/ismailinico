@@ -22,9 +22,5 @@
   "scripts": {
     "lint:fix": "eslint --fix ."
   },
-  "devDependencies": {
-    "eslint": "^8.57.0",
-    "@nico-i/eslint-config": "workspace:*"
-  },
   "gitHead": "46980dc302c06369e01f693167f9792ea2a105c2"
 }
