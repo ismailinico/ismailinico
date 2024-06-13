@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/nico-i/nico-i/compare/eslint-config-v1.1.0...eslint-config-v1.2.0) (2024-06-13)
+
+
+### Features
+
+* added backtick quotes rule ([a46a73a](https://github.com/nico-i/nico-i/commit/a46a73adea61abdb70c503ac60cfaa2341f3ca5c))
+
 ## [1.1.0](https://github.com/nico-i/nico-i/compare/eslint-config-v1.0.0...eslint-config-v1.1.0) (2024-06-12)
 
 
