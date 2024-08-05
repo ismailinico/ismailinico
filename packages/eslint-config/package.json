@@ -11,13 +11,14 @@
   "keywords": [
     "eslint-config"
   ],
+  "main": "index.js",
   "files": [
-    "basic.js"
+    "index.js"
   ],
   "author": "Nico Ismaili",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^8.57.0"
+    "eslint": ">= 9"
   },
   "scripts": {
     "lint:fix": "eslint --fix ."
