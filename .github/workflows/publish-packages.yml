@@ -31,11 +31,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Ensure linting and tests pass
+        run: pnpm run ci
+
       - name: Set publishing config
         run: pnpm config set '//registry.npmjs.org/:_authToken' "${NODE_AUTH_TOKEN}"
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-
 
       - name: Publish packages
         run: ./check-and-publish.sh

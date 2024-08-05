@@ -19,7 +19,7 @@ export default [
         ...globals.browser,
       },
     },
-    ignorePatterns: [`node_modules/`, `dist/`],
+    ignores: [`node_modules/`, `dist/`, `build/`, `coverage/`],
     settings: {
       "import/resolver": {
         typescript: {
