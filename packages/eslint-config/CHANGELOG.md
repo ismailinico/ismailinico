@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.0.2...eslint-config-v2.1.0) (2024-08-05)
+
+
+### Features
+
+* added unit tests for eslint-config ([88d6652](https://github.com/nico-i/nico-i/commit/88d665268597119c11e0977c6cece665246a87f3))
+
 ## [2.0.2](https://github.com/nico-i/nico-i/compare/eslint-config-v2.0.1...eslint-config-v2.0.2) (2024-08-05)
 
 
