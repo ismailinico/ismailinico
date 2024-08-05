@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/nico-i/nico-i/compare/eslint-config-v2.0.0...eslint-config-v2.0.1) (2024-08-05)
+
+
+### Bug Fixes
+
+* changed package to module ([3b668e0](https://github.com/nico-i/nico-i/commit/3b668e06bdd13d8f05a511ff3bab319678509ac6))
+
 ## [2.0.0](https://github.com/nico-i/nico-i/compare/eslint-config-v1.2.0...eslint-config-v2.0.0) (2024-08-05)
 
 
