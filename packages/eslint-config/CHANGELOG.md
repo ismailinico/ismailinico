@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/nico-i/nico-i/compare/eslint-config-v2.0.1...eslint-config-v2.0.2) (2024-08-05)
+
+
+### Bug Fixes
+
+* corrected import ([c06384f](https://github.com/nico-i/nico-i/commit/c06384f672b0f3d58f8a2ca3ae1f4f5449e0f96f))
+
 ## [2.0.1](https://github.com/nico-i/nico-i/compare/eslint-config-v2.0.0...eslint-config-v2.0.1) (2024-08-05)
 
 

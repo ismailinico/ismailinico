@@ -1,5 +1,5 @@
 {
-  "packages/eslint-config": "2.0.1",
+  "packages/eslint-config": "2.0.2",
   "packages/prettier-config": "1.0.0",
   "packages/ts-config": "1.2.0"
 }
