@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.3.0...eslint-config-v2.4.0) (2024-08-05)
+
+
+### Features
+
+* updated pre-commit hook and deployment to run tests before pushing changes ([8cb9bdc](https://github.com/nico-i/nico-i/commit/8cb9bdcb1a70c568aa5a561d791c778ffcf59b86))
+
 ## [2.3.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.2.1...eslint-config-v2.3.0) (2024-08-05)
 
 
