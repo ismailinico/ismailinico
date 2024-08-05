@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/nico-i/nico-i/compare/eslint-config-v1.2.0...eslint-config-v2.0.0) (2024-08-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* updated eslint-config to new format
+
+### Features
+
+* updated eslint-config to new format ([522bda7](https://github.com/nico-i/nico-i/commit/522bda70c0f9920c979d11a4e99d7c053ac711f2))
+
 ## [1.2.0](https://github.com/nico-i/nico-i/compare/eslint-config-v1.1.0...eslint-config-v1.2.0) (2024-06-13)
 
 
