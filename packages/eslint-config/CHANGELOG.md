@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.1.0...eslint-config-v2.2.0) (2024-08-05)
+
+
+### Features
+
+* added config to package output ([944c670](https://github.com/nico-i/nico-i/commit/944c670b571106cd7c6fd9368ff541ffeb4873ac))
+
 ## [2.1.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.0.2...eslint-config-v2.1.0) (2024-08-05)
 
 
