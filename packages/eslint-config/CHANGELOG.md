@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.2.1...eslint-config-v2.3.0) (2024-08-05)
+
+
+### Features
+
+* added node_modules to ignore pattern ([2c8a51d](https://github.com/nico-i/nico-i/commit/2c8a51d5177a7b788d12f5e8ce0387e52bac316f))
+
 ## [2.2.1](https://github.com/nico-i/nico-i/compare/eslint-config-v2.2.0...eslint-config-v2.2.1) (2024-08-05)
 
 
