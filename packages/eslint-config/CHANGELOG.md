@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/nico-i/nico-i/compare/eslint-config-v2.2.0...eslint-config-v2.2.1) (2024-08-05)
+
+
+### Bug Fixes
+
+* moved config to index.js ([bacc5fd](https://github.com/nico-i/nico-i/commit/bacc5fd75d2dde25a69695f2f5ec9d1d8a74677d))
+
 ## [2.2.0](https://github.com/nico-i/nico-i/compare/eslint-config-v2.1.0...eslint-config-v2.2.0) (2024-08-05)
 
 
