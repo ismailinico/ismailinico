@@ -4,7 +4,7 @@
   "description": "My ESLint config.",
   "repository": "https://github.com/nico-i/nico-i",
   "private": false,
-  "type": "commonjs",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
