@@ -1,13 +1,13 @@
 Hi there 👋
 
-I am Nico, a **full stack developer** from **Wiesbaden, Germany** 🌍
+I am Nico, a **full stack developer** from **Germany** 🌍
 ---
 
 😄 Pronouns: He/Him
 
-🔭 I’m currently working on my <a target="_blank" rel=”noreferrer” href="https://www.hs-rm.de/en/faculties/design-computer-science-media/degree-programs/media-computer-science-bsc">**Media Computer Science degree**</a>.
+🔭 I’m currently working as a **Frontend Developer** at **AOE Wiesbaden**.
 
-🌱 I’m currently learning about the new **Next.js App Router** and mobile app development with **Flutter**.
+🌱 I’m currently learning **Rust** and **gRPC** with **protobuf**.
 
 📫 How to reach me:
 
