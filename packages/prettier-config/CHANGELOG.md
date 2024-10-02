@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.0](https://github.com/nico-i/nico-i/compare/prettier-config-v1.0.0...prettier-config-v1.1.0) (2024-10-02)
+
+
+### Features
+
+* added readmes ([3aa48da](https://github.com/nico-i/nico-i/commit/3aa48dadbfa3c7d46db18aa1b2d7c11a91b4fe0a))
+* **devops:** delete husky script in ci ([758d69a](https://github.com/nico-i/nico-i/commit/758d69a11e52df5363056fe685e7ad0d2ca1e843))
+* reverted release + publish to npm ([b969b17](https://github.com/nico-i/nico-i/commit/b969b17cfb57702bbf45daf0258b79fee2462456))
+* updated pre-commit hook and deployment to run tests before pushing changes ([8cb9bdc](https://github.com/nico-i/nico-i/commit/8cb9bdcb1a70c568aa5a561d791c778ffcf59b86))
+
 ## 1.0.0 (2024-02-13)
 
 
